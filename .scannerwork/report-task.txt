@@ -1,0 +1,6 @@
+projectKey=commerce
+serverUrl=http://127.0.0.1:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=commerce
+ceTaskId=AYzy11kN0P0DOGxtYYOR
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AYzy11kN0P0DOGxtYYOR
