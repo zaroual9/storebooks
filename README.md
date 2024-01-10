@@ -2,7 +2,7 @@
 
 ## Overview
 
-StoreBooks is a Django-based web application for managing and showcasing a collection of books. It allows users to view book details, search for books, and make purchases.
+Bookstore is a Django-based web application for managing and showcasing a collection of books. It allows users to view book details, search for books, and make purchases.
 
 ## Features
 
@@ -15,8 +15,9 @@ StoreBooks is a Django-based web application for managing and showcasing a colle
 ## Technologies Used
 
 - Django
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Bootstrap
 - SQLite (for development)
+- Pytest
 
 ## Getting Started
 
@@ -24,6 +25,7 @@ StoreBooks is a Django-based web application for managing and showcasing a colle
 
 - Python (3.x)
 - Django
+- Unit testing
 - [Add any other dependencies]
 
 ### Installation
